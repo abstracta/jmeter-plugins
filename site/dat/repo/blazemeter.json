@@ -859,11 +859,11 @@
   },
   {
     "id": "bzm-jmeter-citrix-plugin",
-    "name": "Blazemeter JMeter Citrix plugin",
-    "description": "Plugin which provides the ability to load tests Citrix exposed applications with Apache JMeter",
+    "name": "BlazeMeter Citrix",
+    "description": "Support for Citrix protocol (only available for Microsoft Windows)",
     "screenshotUrl": "https://github.com/Blazemeter/CitrixPlugin/raw/master/citrix-jmeter/plugin-metadata/presentationScreenshot.png",
     "helpUrl": "https://github.com/Blazemeter/CitrixPlugin/blob/master/README.md",
-    "vendor": "Blazemeter.com",
+    "vendor": "BlazeMeter",
     "markerClass": "com.blazemeter.jmeter.citrix.recorder.gui.CitrixRecorderGUI",
     "componentClasses": [
       "com.blazemeter.jmeter.citrix.assertion.CitrixAssertion",
