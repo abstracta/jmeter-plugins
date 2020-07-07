@@ -450,7 +450,7 @@
   },
   {
     "id": "bzm-hls",
-    "name": "BlazeMeter HLS Sampler",
+    "name": "BlazeMeter - HLS Plugin",
     "description": "HLS protocol sampler, enabling testing for streaming applications",
     "screenshotUrl": "https://raw.githubusercontent.com/Blazemeter/HLSPlugin/master/docs/sampler.png",
     "helpUrl": "https://github.com/Blazemeter/HLSPlugin/blob/master/README.md",
@@ -555,7 +555,7 @@
   },
   {
     "id": "bzm-http2",
-    "name": "BlazeMeter HTTP/2 Sampler",
+    "name": "BlazeMeter - HTTP/2 Plugin",
     "description": "HTTP/2 protocol sampler",
     "helpUrl": "https://github.com/Blazemeter/jmeter-http2-plugin/blob/master/README.md",
     "screenshotUrl": "https://raw.githubusercontent.com/Blazemeter/jmeter-http2-plugin/master/syncRequest.png",
@@ -696,7 +696,7 @@
   },
   {
     "id": "bzm-rte",
-    "name": "BlazeMeter RTE Protocol Support",
+    "name": "BlazeMeter - RTE Plugin",
     "description": "Support for RTE (remote terminal emulation), providing a recorder, sampler and config element to interact with remote terminal servers",
     "screenshotUrl": "https://raw.githubusercontent.com/Blazemeter/RTEPlugin/master/docs/recorder/recorder-panel.png",
     "helpUrl": "https://github.com/Blazemeter/RTEPlugin/blob/master/README.md",
@@ -811,7 +811,7 @@
   },
   {
     "id": "bzm-siebel",
-    "name": "BlazeMeter Correlation Recorder",
+    "name": "BlazeMeter - Correlation Recorder Plugin",
     "description": "Correlation Recorder provides auto-correlation of variables at recording time",
     "screenshotUrl": "https://github.com/Blazemeter/CorrelationRecorder/blob/master/docs/template-elements-panel.png",
     "helpUrl": "https://github.com/Blazemeter/CorrelationRecorder/blob/master/README.md",
@@ -859,7 +859,7 @@
   },
   {
     "id": "bzm-jmeter-citrix-plugin",
-    "name": "BlazeMeter Citrix",
+    "name": "BlazeMeter - Citrix Plugin",
     "description": "Support for Citrix protocol (only available for Microsoft Windows)",
     "screenshotUrl": "https://github.com/Blazemeter/CitrixPlugin/raw/master/citrix-jmeter/plugin-metadata/presentationScreenshot.png",
     "helpUrl": "https://github.com/Blazemeter/CitrixPlugin/blob/master/README.md",
