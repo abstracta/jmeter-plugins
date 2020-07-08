@@ -597,6 +597,10 @@
       "2.6.11": {
         "changes": "Fixed issue with deprecated methods resulting in errors and timeout issues",
         "downloadUrl": "https://github.com/delirius325/jmeter-elasticsearch-backend-listener/releases/download/2.6.11/jmeter.backendlistener.elasticsearch-2.6.11.jar"
+      },
+      "2.7.0": {
+        "changes": "Added an exclude feature for filters",
+        "downloadUrl": "https://github.com/delirius325/jmeter-elasticsearch-backend-listener/releases/download/2.7.0/jmeter.backendlistener.elasticsearch-2.7.0.jar"
       }
     }
   },
@@ -669,6 +673,26 @@
       "com.ubikingenierie.jmeter.plugin.hls.gui.HLSSamplerGUI"
     ],
     "versions": {
+     "7.1.4": {
+        "changes": "Bugfix version",
+        "downloadUrl": "https://ubikloadpack.com/plugins/ulp-jmeter-streaming-plugin/7.1.4/ubik-jmeter-videostreaming-plugin-7.1.4.jar",
+        "depends":["jmeter-core", "jmeter-components", "jmeter-http"]
+      },
+     "7.1.3": {
+        "changes": "Improve reporting and some bugfixes",
+        "downloadUrl": "https://ubikloadpack.com/plugins/ulp-jmeter-streaming-plugin/7.1.3/ubik-jmeter-videostreaming-plugin-7.1.3.jar",
+        "depends":["jmeter-core", "jmeter-components", "jmeter-http"]
+      },
+     "7.1.2": {
+        "changes": "Bugfix version",
+        "downloadUrl": "https://ubikloadpack.com/plugins/ulp-jmeter-streaming-plugin/7.1.2/ubik-jmeter-videostreaming-plugin-7.1.2.jar",
+        "depends":["jmeter-core", "jmeter-components", "jmeter-http"]
+      },
+     "7.1.1": {
+        "changes": "Bugfix version",
+        "downloadUrl": "https://ubikloadpack.com/plugins/ulp-jmeter-streaming-plugin/7.1.1/ubik-jmeter-videostreaming-plugin-7.1.1.jar",
+        "depends":["jmeter-core", "jmeter-components", "jmeter-http"]
+      },
      "7.1.0": {
         "changes": "Improvements in HLS Live support",
         "downloadUrl": "https://ubikloadpack.com/plugins/ulp-jmeter-streaming-plugin/7.1.0/ubik-jmeter-videostreaming-plugin-7.1.0.jar",
