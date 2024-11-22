@@ -1414,6 +1414,14 @@
         "depends": [
           "bzm-repositories"
         ]
+      },
+      "3.1": {
+        "changes": "New Release",
+        "downloadUrl": "https://github.com/Blazemeter/CorrelationRecorder/releases/download/v3.1/jmeter-bzm-correlation-recorder-3.1.jar",
+        "libs": {},
+        "depends": [
+          "bzm-repositories"
+        ]
       }
     }
   },
