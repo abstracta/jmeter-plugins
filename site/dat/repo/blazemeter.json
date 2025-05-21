@@ -1450,7 +1450,7 @@
         ]
       },
       "3.1.1": {
-        "changes": "BlazeMeter rebranding",
+        "changes": "some changes",
         "downloadUrl": "https://github.com/Blazemeter/CorrelationRecorder/releases/download/v3.1.1/jmeter-bzm-correlation-recorder-3.1.1.jar",
         "libs": {
           "jackson-annotations>=2.13.3": "https://github.com/Blazemeter/CorrelationRecorder/releases/download/v3.1.1/jackson-annotations-2.13.3.jar",
