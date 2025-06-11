@@ -1655,6 +1655,16 @@
           "jmeter-components",
           "jmeter-http"
         ]
+      },
+      "0.7.8": {
+        "changes": "BlazeMeter rebranding",
+        "downloadUrl": "https://github.com/Blazemeter/CitrixPlugin/releases/download/0.7.8/citrix-jmeter-0.7.8.jar",
+        "libs": {},
+        "depends": [
+          "jmeter-core",
+          "jmeter-components",
+          "jmeter-http"
+        ]
       }
     }
   }
